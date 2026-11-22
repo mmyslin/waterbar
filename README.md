@@ -2,6 +2,9 @@
 
 A minimal, interactive iOS Home Screen widget built with **SwiftUI**, **Swift Charts**, and **App Intents** that displays day-by-day hourly precipitation probability forecasts.
 
+<img width="962" height="426" alt="44D9D390-CACE-4FF5-A56E-6F57082B8BFC_1_201_a" src="https://github.com/user-attachments/assets/462170f2-8fe5-4b98-ad08-da68653bc109" />
+
+
 ## Features
 
 - **Day-by-Day Interactive Navigation:** Step forward and backward across a 4-day forecast (`TODAY` plus the next three days) using `<` and `>` widget controls powered by `AppIntent`.
